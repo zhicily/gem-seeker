@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GemSeeker</string>
+    <string name="welcome_gem_descr">Gem image for welcome screen</string>
+    <string name="welcome_screen_msg">Gem Seeker!</string>
+    <string name="welcome_txt">Welcome to . . .</string>
+    <string name="game_options">"Game Options"</string>
+    <string name="new_game">"Play Game"</string>
+    <string name="skip_to_main_menu">"      Skip to Main Menu      "</string>
+    <string name="game_help">"Game Help"</string>
+    <string name="made_by">Made by: \nCynthia Zhao</string>
+    <string name="game_help_header">"How-To Guide"</string>
+    <string name="game_help_descrip">Welcome to the game guide on how to play Gem Seeker! \n\n
+        Here, the objective of the game is to mine all the gems in the fewest scans possible. \n
+        The total number of gems available to be mined will be displayed on the top left corner of the game screen.
+        The total number of scans you\'ve made so far will be counted on the top right. \n\n
+        To perform a scan (and dig!), tap on a square or gem on the grid. For every scan you make, either a gem or a number will appear on the square you\'ve tapped on.
+        Successful finds do not count as a scan, but a scan on a gem found can be performed by tapping on the same location again.
+        The number that appears signifies the total number of gems that are in the same row and column as the square.
+        As gems are found in these rows and columns, the respective numbers displayed on these squares will decrement. \n
+        When the game is won, all numbers will display \'0\'. \n\n
+        About the Author: Cynthia Zhao - <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/home">CMPT276</a> \n
+        Credits: <a href="https://www.freevector.com/hyper-realistic-blue-gem-vector-24885#">Gem Image</a> \n\n
+
+    </string>
+    <string name="settings">Settings</string>
+    <string name="number_of_gems">Number of Gems:</string>
+    <string name="board_size_label">Board Size:</string>
+    <string name="found_gems">Found %1$d of %2$d Gems</string>
+    <string name="scans_used"># Scans Used: %1$d</string>
+    <string name="msg_dialog">MsgDialog</string>
+    <string name="game_board_prefs">gameBoardPrefs</string>
+    <string name="board_size_choice">boardSizeChoice</string>
+    <string name="game_gem_prefs">gameGemsPrefs</string>
+    <string name="num_gems_choice">numGemsChoice</string>
+    <string name="scaleX">scaleX</string>
+    <string name="scaleY">scaleY</string>
+    <string name="scanning_msg">Scanning ... Please allow scan to finish before performing another.</string>
+    <string name="congrats_all">Congratulations! You found all the gems!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="click_OK">Click \'OK\' to return to the Main Menu.</string>
+</resources>

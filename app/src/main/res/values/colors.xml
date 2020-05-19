@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDropDown">#177a80</color>
+    <color name="colorMainText">#DFF8F1</color>
+    <color name="colorButtons">#30506e</color>
+    <color name="colorWelcomeTop">#020024</color>
+    <color name="colorWelcomeBottom">#2db3a2</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorButton">#50046dbb</color>
+    <color name="colorButtonPressed">#50063e9c</color>
+</resources>
